@@ -1,6 +1,6 @@
 # Change the values of these variables as needed
 
-$rg = "az200Learning" # Resource Group name
+$rg = "az200Learning" # Resource Group name======
 $location = "australia central"  # Azure region for the resources
 
 # ============================================================================
